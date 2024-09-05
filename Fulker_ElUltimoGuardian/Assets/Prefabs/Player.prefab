@@ -171,9 +171,9 @@ MonoBehaviour:
   radio: 0
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 0
-  maxJumps: 1
-  jumpCount: 0
+    m_Bits: 64
+  extraJump: 0
+  extraJumpValue: 0
 --- !u!114 &6323393266709789222
 MonoBehaviour:
   m_ObjectHideFlags: 0
